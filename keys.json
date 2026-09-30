@@ -1,0 +1,19 @@
+{
+  "keys": [
+    {
+      "key": "TAALIM-V1-ACTIVE-2027",
+      "active": true,
+      "expiresAt": "2027-12-31T23:59:59"
+    },
+    {
+      "key": "TAALIM-REVOKED-001",
+      "active": false,
+      "expiresAt": "2027-12-31T23:59:59"
+    },
+    {
+      "key": "TAALIM-EXPIRED-001",
+      "active": true,
+      "expiresAt": "2024-01-01T00:00:00"
+    }
+  ]
+}
